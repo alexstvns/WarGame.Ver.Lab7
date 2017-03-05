@@ -16,6 +16,9 @@ public class Score {
     static int rightScore=0;
       static int leftScore=0;
     
+      private Score(){
+          
+      }
     
      public static void setRightScore(int y){
         
